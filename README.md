@@ -25,7 +25,7 @@ This is a simple TODO list application built with React (TypeScript), Node.js (T
 1.  **Clone the repository:**
 
     ```bash
-    git clone [https://github.com/thiagomcampos/todo-list-app]
+    git clone https://github.com/thiagomcampos/todo-list-app
     ```
 
 2.  **Install dependencies:**
