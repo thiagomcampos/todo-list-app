@@ -98,6 +98,17 @@ This is a simple TODO list application built with React (TypeScript), Node.js (T
 
 ## Screenshots
 
+![image](https://github.com/user-attachments/assets/64ff3406-dd57-43d3-8173-cb7e49f55be7)
+
+![image](https://github.com/user-attachments/assets/7244e41f-d466-47b1-9d35-a166e5e1b75e)
+
+![image](https://github.com/user-attachments/assets/9230f8f3-f47c-445a-8d11-da808fbf9d56)
+
+![image](https://github.com/user-attachments/assets/d60474aa-02cc-447d-8036-2ae9633d35e9)
+
+![image](https://github.com/user-attachments/assets/bad6ecae-8d0e-4951-ab9a-5ca91e8bb32b)
+
+
 ## Contributing
 
 - Fork the repository.
